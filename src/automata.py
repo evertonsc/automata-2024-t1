@@ -1,6 +1,6 @@
 """Implementação de autômatos finitos."""
 
-def load_automata(filename):
+def load_automata(filename: str):
     """
     Lê os dados de um autômato finito a partir de um arquivo.
 
